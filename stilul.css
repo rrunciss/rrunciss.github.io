@@ -1,0 +1,19 @@
+body 
+{
+  background-image: url('access.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed; 
+  background-size: cover;
+}
+
+
+table, th, td 
+{
+  border: 1px solid black;
+border-collapse: collapse;
+border-style: dotted;
+}
+table, th, td 
+{
+vertical-align: middle;
+}
