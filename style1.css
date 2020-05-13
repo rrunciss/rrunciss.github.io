@@ -1,0 +1,220 @@
+body {
+	margin: 0;
+	padding: 0;
+	background-repeat: no-repeat;
+	background-attachment: fixed; 
+	background-size: cover;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+#wrap {
+	position: relative;
+	width: 1100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(204, 102, 153, 0.3);
+	padding-bottom: 20px;
+	min-height:	100vh;
+}
+/* Fona attēli */
+.background-index {
+	background-image: url('background.jpg');
+}
+
+.background-access {
+	background-image: url('accessfons.jpg');
+}
+
+.background-word {
+	background-image: url('wordfons.jpg');
+}
+
+.background-excel {
+	background-image: url('excelfons.jpg');
+}
+/* Izvēlnei */
+.menu-bar {
+	position: relative;
+	width: 100%;
+	height: 60px;
+}
+
+.menu-bar ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+.menu-bar li {
+	float: left;
+	width: 14.28%;
+	background-color: Black;
+}
+
+.menu-bar li a {
+	display: inline-block;
+	width: 100%;
+	text-decoration: none;
+	color: #e08095;
+	font-size: 18px;
+	font-weight: bold;
+	letter-spacing: 1px;
+	text-align: center;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.menu-bar li a:hover {
+	background-color: #c94f60;
+	color: Black;
+}
+
+.menu-bar li a:active {
+	background-color: #881421;
+}
+
+li a.menu-active-link {
+	background-color: #881421;
+	color: White;
+}
+/* access1 galvene */
+.header {
+	position: relative;
+	height: 170px;
+	width: 100%;
+	/*background-color: orange;*/
+}
+
+.header img {
+	float: right;
+	width: 150px;
+	margin-right: 20px;
+	padding-top: 10px;
+}
+
+.text-pane-1 {
+	width: 800px;
+	height: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-color: red;*/
+}
+
+.text-pane-1 h1 {
+	text-align: center;
+	color: #760612;
+	margin: 0;
+	padding-top: 30px;
+}
+
+.text-pane-1 h3 {
+	text-align: center;
+	padding-top: 25px;
+	font-size:20px;
+	/*background-color: yellow;*/
+}
+
+/* Tēmu tabula access1 lapā*/
+.content-pane {
+	position: relative;
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
+	/*background-color: green;*/
+}
+
+.content-pane table {
+	width: 100%;
+	height: 100%;
+	/*border: 1px solid #881421;
+	border-style: dotted;
+	border-collapse: collapse;*/
+	font-size: 18px;
+}
+
+.content-pane td {
+	border: 1px solid #881421;
+	border-style: solid;
+	height: 80px;
+	width: 50%;
+	text-align: center;
+	vertical-align: center;
+	background-color: rgb(175, 32, 49, 0.2);
+}
+
+.content-pane a {
+	text-decoration: none;
+	font-weight: bold;
+	color: Black;
+}
+
+.content-pane a:hover {
+	color: #63000b;
+}
+
+.content-pane p, li {
+	font-size: 15px;
+}
+
+.content-pane h2 {
+	text-align: center;
+	font-size: 30px;
+}
+
+.table-pane {
+	position: relative;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+	height: 100%;
+	padding-top: 15px;
+	/*background-color: red;*/
+}
+
+.table-pane table {
+	width: 100%;
+	height: 100%;
+	border: 1px solid #881421;
+	border-style: dotted;
+	border-collapse: collapse;
+	font-size: 15px;
+	vertical-align: center;
+}
+
+.table-pane th {
+	border: 1px solid #881421;
+	border-style: dotted;
+	background-color: rgb(175, 32, 49, 0.2);
+}
+
+.table-pane td {
+	border: 1px solid #881421;
+	border-style: dotted;
+	height: 45px;
+}
+
+.col-1 {
+	width: 10%;
+	text-align: center;
+	font-weight: bold;
+}
+
+.col-3 {
+	width: 15%;
+	text-align: center;
+}
+
+.table-pane img {
+	height: 22px;
+}
+
+.table-section {
+	text-align: center;
+	font-weight: bold;
+	color: #881421;
+	background-color: rgb(175, 32, 49, 0.1);
+}
+
+.test-pane {
+	width: 100%;
+}
