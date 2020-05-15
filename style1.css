@@ -256,7 +256,9 @@ li a.menu-active-link {
 }
 
 .main-page-table table {
-	width: 100%	
+	width: 90%;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 .main-page-table td, th {
