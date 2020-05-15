@@ -275,3 +275,9 @@ li a.menu-active-link {
 .main-page-table img:hover {
 	transform: scale(1.6);
 }
+
+.main-page-table p {
+	text-align: center;
+	color: #191970;
+	font-size:25px;
+}
