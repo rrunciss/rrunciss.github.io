@@ -12,11 +12,9 @@ body {
 	width: 1100px;
 	margin-left: auto;
 	margin-right: auto;
-	/*background-color: rgb(255, 255, 255, 0.2);*/
+	background-color: rgb(255, 255, 255, 0.2);
 	padding-bottom: 20px;
 	min-height:	100vh;
-	background-color: White;
-	opacity: 0.2;
 }
 /* Fona attēli */
 .background-index {
@@ -149,7 +147,7 @@ li a.menu-active-link {
 	font-size: 60px;
 	text-align: center;
 	margin: 0;
-	padding-top: 30px;
+	padding-top: 20px;
 }
 
 /* Tēmu tabula access1 lapā*/
@@ -257,4 +255,15 @@ li a.menu-active-link {
 	width: 100%;
 }
 
+.main-page-table table {
+	width: 100%	
+}
 
+.main-page-table td, th {
+	text-align: center;
+	width: 50%;
+}
+
+.main-page-table img {
+	width: 400px;
+}
