@@ -84,7 +84,7 @@ li a.menu-active-link {
 /* access1 galvene */
 .header {
 	position: relative;
-	height: 200px;
+	height: 100%;
 	width: 100%;
 	/*background-color: orange;*/
 }
