@@ -32,6 +32,10 @@ body {
 .background-excel {
 	background-image: url('excelfons.jpg');
 }
+
+.background-powerpoint {
+	background-image: url('powerpointfons.jpg');
+}
 /* Izvēlnei */
 .menu-bar {
 	position: relative;
@@ -47,7 +51,7 @@ body {
 
 .menu-bar li {
 	float: left;
-	width: 14.28%;
+	width: 12.5%;
 	background-color: Black;
 }
 
