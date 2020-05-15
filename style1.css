@@ -224,3 +224,8 @@ li a.menu-active-link {
 .test-pane {
 	width: 100%;
 }
+
+.index-title {
+	color: green;
+	text-shadow: 2px 2px #ff0000;
+}
