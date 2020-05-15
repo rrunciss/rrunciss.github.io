@@ -269,4 +269,9 @@ li a.menu-active-link {
 
 .main-page-table img {
 	width: 400px;
+	transition: transform .2s;
+}
+
+.main-page-table img:hover {
+	transform: scale(1.5);
 }
