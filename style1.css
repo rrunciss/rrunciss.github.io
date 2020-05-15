@@ -270,7 +270,8 @@ li a.menu-active-link {
 
 .main-page-table img {
 	width: 400px;
-	transition: transform .2s;
+	transition-duration: 0.2s;
+	/*transition: transform 0.2s;*/
 }
 
 .main-page-table img:hover {
@@ -280,5 +281,5 @@ li a.menu-active-link {
 .main-page-table p {
 	text-align: center;
 	color: #191970;
-	font-size:25px;
+	font-size: 25px;
 }
