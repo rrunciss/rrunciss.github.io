@@ -119,6 +119,14 @@ li a.menu-active-link {
 	color: #760612;
 }
 
+.title-word {
+	color: #043c9d;
+}
+
+.title-excel {
+	color: #086533;
+}
+
 .text-pane-1 h2 {
 	font-size: 18px;
 	text-align: center;
