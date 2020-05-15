@@ -262,6 +262,7 @@ li a.menu-active-link {
 .main-page-table td, th {
 	text-align: center;
 	width: 50%;
+	padding-bottom: 10px;
 }
 
 .main-page-table img {
