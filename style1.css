@@ -106,13 +106,16 @@ li a.menu-active-link {
 
 .text-pane-1 h1 {
 	text-align: center;
-	text-shadow: 1px 1px 3px #000000;
 	margin: 0;
 	padding-top: 30px;
 }
 
 .title-powerpoint {
 	color: #b82e0b;
+}
+
+.title-access {
+	color: #760612;
 }
 
 .text-pane-1 h2 {
