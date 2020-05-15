@@ -14,7 +14,7 @@ body {
 	margin-right: auto;
 	background-color: rgba(255,255,255,0.2);
 	padding-bottom: 20px;
-	min-height:	100vh;
+	min-height: 100vh;
 }
 /* Fona attēli */
 .background-index {
@@ -176,7 +176,7 @@ li a.menu-active-link {
 	width: 50%;
 	text-align: center;
 	vertical-align: center;
-	background-color: rgb(175, 32, 49, 0.2);
+	background-color: rgba(175,32,49,0.2);
 }
 
 .content-pane a {
@@ -221,7 +221,7 @@ li a.menu-active-link {
 .table-pane th {
 	border: 1px solid #881421;
 	border-style: dotted;
-	background-color: rgb(175, 32, 49, 0.2);
+	background-color: rgba(175,32,49,0.2);
 }
 
 .table-pane td {
@@ -249,7 +249,7 @@ li a.menu-active-link {
 	text-align: center;
 	font-weight: bold;
 	color: #881421;
-	background-color: rgb(175, 32, 49, 0.1);
+	background-color: rgba(175,32,49,0.1);
 }
 
 .test-pane {
