@@ -87,6 +87,7 @@ li a.menu-active-link {
 	height: 100%;
 	width: 100%;
 	/*background-color: orange;*/
+	padding-bottom: 10px;
 }
 
 .header img {
@@ -98,7 +99,7 @@ li a.menu-active-link {
 
 .text-pane-1 {
 	width: 800px;
-	height: 180px;
+	min-height: 100px;
 	margin-left: auto;
 	margin-right: auto;
 	/*background-color: red;*/
