@@ -140,6 +140,16 @@ li a.menu-active-link {
 	/*background-color: yellow;*/
 }
 
+.text-pane-1 h4 {
+	color: #00cc00;
+	text-shadow: 2px 2px 3px #000000;
+	text-align: center; 
+	font-size: 60px;
+	text-align: center;
+	margin: 0;
+	padding-top: 30px;
+}
+
 /* Tēmu tabula access1 lapā*/
 .content-pane {
 	position: relative;
@@ -245,10 +255,4 @@ li a.menu-active-link {
 	width: 100%;
 }
 
-.index-title {
-	color: #00cc00;
-	text-shadow: 2px 2px 3px #000000;
-	text-align: center; 
-	font-size: 60px;
-	font-weight: bold;
-}
+
