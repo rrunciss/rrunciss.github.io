@@ -284,3 +284,7 @@ li a.menu-active-link {
 	color: #191970;
 	font-size: 25px;
 }
+
+.content-pane form {
+	padding-left: 20px;	
+}
